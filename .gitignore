@@ -1,0 +1,13 @@
+*.obsidian*
+*__*
+__templates*
+*node_modules*
+venv*
+*.zip
+*.tar*
+exfil*
+scans*
+*cherrytree*
+core.*
+*.burp
+Huntress2025*
